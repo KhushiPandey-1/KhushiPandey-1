@@ -1,5 +1,6 @@
 - # 👋 Welcome to My GitHub Profile!
-- 👋 Hi, I’m @KhushiPandey-1 (Khushi Pandey) 👋
+
+Hi, I’m **@KhushiPandeyy-1** (Khushi Pandey) 👋
 
 ### 👀 I’m interested in...
 - **Web Development** (React, Node.js, HTML, CSS)
